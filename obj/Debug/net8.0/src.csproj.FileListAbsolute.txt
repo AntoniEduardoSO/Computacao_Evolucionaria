@@ -1,0 +1,14 @@
+D:\Dev\Computacao_Evolucionaria\src\bin\Debug\net8.0\src.deps.json
+D:\Dev\Computacao_Evolucionaria\src\bin\Debug\net8.0\src.dll
+D:\Dev\Computacao_Evolucionaria\src\bin\Debug\net8.0\src.pdb
+D:\Dev\Computacao_Evolucionaria\src\obj\Debug\net8.0\src.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Computacao_Evolucionaria\src\obj\Debug\net8.0\src.AssemblyInfoInputs.cache
+D:\Dev\Computacao_Evolucionaria\src\obj\Debug\net8.0\src.AssemblyInfo.cs
+D:\Dev\Computacao_Evolucionaria\src\obj\Debug\net8.0\src.csproj.CoreCompileInputs.cache
+D:\Dev\Computacao_Evolucionaria\src\obj\Debug\net8.0\src.dll
+D:\Dev\Computacao_Evolucionaria\src\obj\Debug\net8.0\refint\src.dll
+D:\Dev\Computacao_Evolucionaria\src\obj\Debug\net8.0\src.pdb
+D:\Dev\Computacao_Evolucionaria\src\obj\Debug\net8.0\ref\src.dll
+D:\Dev\Computacao_Evolucionaria\src\bin\Debug\net8.0\src.exe
+D:\Dev\Computacao_Evolucionaria\src\bin\Debug\net8.0\src.runtimeconfig.json
+D:\Dev\Computacao_Evolucionaria\src\obj\Debug\net8.0\src.genruntimeconfig.cache
