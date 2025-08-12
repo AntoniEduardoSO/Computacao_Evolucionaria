@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HailK\\.nuget\\packages\\": {}
+    "/Users/katochi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Computacao_Evolucionaria\\src\\src.csproj",
+      "projectUniqueName": "/Users/katochi/Desktop/Dev/Computacao_Evolucionaria/src.csproj",
       "projectName": "src",
-      "projectPath": "D:\\Dev\\Computacao_Evolucionaria\\src\\src.csproj",
-      "packagesPath": "C:\\Users\\HailK\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Computacao_Evolucionaria\\src\\obj\\",
+      "projectPath": "/Users/katochi/Desktop/Dev/Computacao_Evolucionaria/src.csproj",
+      "packagesPath": "/Users/katochi/.nuget/packages/",
+      "outputPath": "/Users/katochi/Desktop/Dev/Computacao_Evolucionaria/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HailK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/katochi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
